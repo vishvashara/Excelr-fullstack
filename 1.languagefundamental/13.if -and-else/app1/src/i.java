@@ -8,8 +8,5 @@ class i
 		else
 		System.out.println("else1");
 		else						System.out.println("else2");
-
-
-
 	}
 }
