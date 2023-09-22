@@ -8,7 +8,7 @@ class F
 	}
 	public static void main(String[]args)
 	{
-		F f1 = new F();
+		F f1 = new F(100);
 		System.out.println(f1.i);
 	}
 }

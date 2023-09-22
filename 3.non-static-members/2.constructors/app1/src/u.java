@@ -18,3 +18,7 @@ class U
 		System.out.println("-----");
 	}
 }
+/*
+-recursive innvocation is not possiable in the constructor.
+-recursive innvocation is not possiable when constructor is calling itself.
+*/

@@ -17,3 +17,6 @@ class T
 		System.out.println("-----");
 	}
 }
+/*
+-we can create object inside constructor is possible.
+*/

@@ -16,3 +16,6 @@ class Y
 		System.out.println("-----");
 	}
 }
+/*
+-In sib block we can create an object,it is possible.
+*/
